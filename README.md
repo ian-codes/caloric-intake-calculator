@@ -8,3 +8,4 @@ This calculator can be used to determine the following:
   
 # Usage
 Follow the instructions the script gives you when you run it. It should be self-explanatory.
+There are two version of the script, one in English and one in German. Use whichever you'd like.
